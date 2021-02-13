@@ -1,0 +1,220 @@
+/*首頁留言板自訂樣式*/
+.containers {
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+}
+
+    {
+    scroll-behavior: smooth;
+}
+
+.smart-green {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    background: #F8F8F8;
+    padding: 30px 30px 20px 30px;
+    font: 12px Arial, Helvetica, sans-serif;
+    color: #666;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.smart-green h1 {
+    font: 24px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding: 20px 0px 20px 40px;
+    display: block;
+    margin: -30px -30px 10px -30px;
+    color: #FFF;
+    background: #9DC45F;
+    text-shadow: 1px 1px 1px #949494;
+    border-radius: 5px 5px 0px 0px;
+    -webkit-border-radius: 5px 5px 0px 0px;
+    -moz-border-radius: 5px 5px 0px 0px;
+    border-bottom: 1px solid #89AF4C;
+}
+
+.smart-green h1>span {
+    display: block;
+    font-size: 11px;
+    color: #FFF;
+}
+
+.smart-green label {
+    display: block;
+    margin: 0px 0px 5px;
+}
+
+.smart-green label>span {
+    float: left;
+    margin-top: 10px;
+    color: #5E5E5E;
+}
+
+.smart-green input[type="text"],
+.smart-green input[type="email"],
+.smart-green textarea,
+.smart-green select {
+    color: #555;
+    height: 30px;
+    line-height: 15px;
+    width: 100%;
+    padding: 0px 0px 0px 10px;
+    margin-top: 2px;
+    border: 1px solid #E5E5E5;
+    background: #FBFBFB;
+    outline: 0;
+    -webkit-box-shadow: inset 1px 1px 2px rgba(238, 238, 238, 0.2);
+    box-shadow: inset 1px 1px 2px rgba(238, 238, 238, 0.2);
+    font: normal 14px/14px Arial, Helvetica, sans-serif;
+}
+
+.smart-green textarea {
+    height: 100px;
+    padding-top: 10px;
+    resize: none;
+}
+
+
+.smart-green .button {
+    background-color: #9DC45F;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-border-radius: 5px;
+    border: none;
+    padding: 10px 25px 10px 25px;
+    color: #FFF;
+    text-shadow: 1px 1px 1px #949494;
+}
+
+.smart-green .button:hover {
+    background-color: #80A24A;
+}
+
+.error-msg {
+    color: red;
+    margin-top: 10px;
+}
+
+.success-msg {
+    color: #80A24A;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.parent {
+    height: 0;
+    padding-bottom: 56.25%;
+    position: relative;
+}
+
+.parent iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 120%;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'source-han-sans-traditional', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+/* .jumbotron {
+    background: url("https://images.unsplash.com/photo-1594043572837-2749cef2b55a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80");
+    color: white;
+} */
+
+.services-logo {
+    width: 70px;
+    height: auto;
+}
+
+.cal_hover:hover {
+    border: 3px solid #F0F0F0;
+    background-color: #F0F0F0;
+}
+
+.cal_hover {
+    background-color: #fafafa;
+}
+
+.bgc-1 {
+    background-color: #f3c300;
+}
+
+.bgc-2 {
+    background-color: #333;
+}
+
+a:hover {
+    color: #627585;
+    text-decoration: none;
+}
+
+.hr_sty {
+    border-top: 3px solid #627585;
+}
+
+.footer_a {
+    color: #bdbdbd;
+}
+
+.cardimg1 {
+    height: 160px;
+    object-fit: cover;
+}
+
+.cardimg2 {
+    height: 220px;
+    object-fit: cover;
+}
+
+.textellipsis {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.footer_size {
+    background: #757575;
+    color: #BDBDBD;
+}
+
+.footer_md-icon {
+    height: 30px;
+    width: 30px;
+}
+
+
+.copyright {
+    font-size: 0.9rem;
+}
+
+.footer_sm-icon {
+    width: 20px;
+}
+
+.if_mb {
+    margin-bottom: 150px;
+}
+
+.add_jum_size {
+    height: 400px;
+}
+
+.bgc-3 {
+    /* background-color: #FFF9C4; */
+}
+
+.bgc-4 {
+    background-color: #ffffff;
+}

@@ -1,0 +1,134 @@
+[
+    {
+        "activity_id": "1",
+        "activity_name": "色之古市集",
+        "city_name": "臺南市",
+        "area_name": "中西區",
+        "road_name": "國華街三段26號",
+        "activity_date": "2020-11-07",
+        "latitude": "22.9939690",
+        "longitude": "120.1978378",
+        "activity_place": "台南西門淺草場"
+    },
+    {
+        "activity_id": "2",
+        "activity_name": "有機產品市集",
+        "city_name": "臺南市",
+        "area_name": "南區",
+        "road_name": "健康路一段77號",
+        "activity_date": "2020-11-14",
+        "latitude": "22.9809895",
+        "longitude": "120.2089615",
+        "activity_place": "棒球公園"
+    },
+    {
+        "activity_id": "3",
+        "activity_name": "永成文創跳蚤市集",
+        "city_name": "臺南市",
+        "area_name": "南區",
+        "road_name": "永成路二段460-6號",
+        "activity_date": "2020-10-16",
+        "latitude": "22.9479179",
+        "longitude": "120.1934891",
+        "activity_place": null
+    },
+    {
+        "activity_id": "4",
+        "activity_name": "神農文創市集",
+        "city_name": "臺南市",
+        "area_name": "中西區",
+        "road_name": "神農街72號",
+        "activity_date": "2020-11-22",
+        "latitude": "22.9975090",
+        "longitude": "120.1945724",
+        "activity_place": null
+    },
+    {
+        "activity_id": "5",
+        "activity_name": "MIT 臺南製造\/ 陪伴在聲邊 - 轉動的聲音",
+        "city_name": "臺南市",
+        "area_name": "中西區",
+        "road_name": "中西區南門路38號",
+        "activity_date": "2020-10-30",
+        "latitude": "22.9870739",
+        "longitude": "120.2052460",
+        "activity_place": "南門電影書院"
+    },
+    {
+        "activity_id": "6",
+        "activity_name": "2020第37屆曾文水庫馬拉松",
+        "city_name": "臺南市",
+        "area_name": "楠西區",
+        "road_name": "曾文水庫",
+        "activity_date": "2020-12-13",
+        "latitude": "23.2713604",
+        "longitude": "120.5689468",
+        "activity_place": "曾文水庫"
+    },
+    {
+        "activity_id": "7",
+        "activity_name": "人有權反抗不義的政府嗎？讀《暴民法》",
+        "city_name": "臺南市",
+        "area_name": "東區",
+        "road_name": "東和路159巷29號",
+        "activity_date": "2020-10-11",
+        "latitude": "22.9802361",
+        "longitude": "120.2239456",
+        "activity_place": "大風堂咖啡"
+    },
+    {
+        "activity_id": "8",
+        "activity_name": "「南風起系列-我和我的越南記憶」",
+        "city_name": "臺南市",
+        "area_name": "新營區",
+        "road_name": "中正路23號",
+        "activity_date": "2020-10-31",
+        "latitude": "23.3088551",
+        "longitude": "120.3160019",
+        "activity_place": "新營文化中心意象廳"
+    },
+    {
+        "activity_id": "9",
+        "activity_name": "泰國歌謠文化",
+        "city_name": "臺南市",
+        "area_name": "南區",
+        "road_name": "新和東路51號",
+        "activity_date": "2020-11-08",
+        "latitude": "22.9673691",
+        "longitude": "120.1881790",
+        "activity_place": "鹽埕圖書館"
+    },
+    {
+        "activity_id": "10",
+        "activity_name": "南風起講座-越南多元文化",
+        "city_name": "臺南市",
+        "area_name": "仁德區",
+        "road_name": "正義一街39號2樓",
+        "activity_date": "2020-10-14",
+        "latitude": "22.9725647",
+        "longitude": "120.2531815",
+        "activity_place": "仁德區圖書館"
+    },
+    {
+        "activity_id": "11",
+        "activity_name": "越南捲紙藝術",
+        "city_name": "臺南市",
+        "area_name": "北區",
+        "road_name": "公園北路3號",
+        "activity_date": "2020-11-21",
+        "latitude": "23.0038719",
+        "longitude": "120.2121277",
+        "activity_place": "臺南市立圖書館"
+    },
+    {
+        "activity_id": "12",
+        "activity_name": "1930年代的台灣作家與畫家的互動 (陳芳明)",
+        "city_name": "臺南市",
+        "area_name": "中西區",
+        "road_name": "忠義路二段1號",
+        "activity_date": "2020-11-01",
+        "latitude": "22.9903622",
+        "longitude": "120.2013397",
+        "activity_place": "臺南市美術館2館"
+    }
+]

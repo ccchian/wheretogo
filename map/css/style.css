@@ -1,0 +1,31 @@
+.GeoBtn{
+    position: fixed;
+    top: 80px;
+    z-index: 999;
+}
+
+.red{
+  color: red;
+}
+
+#activity-list .activity-info .love {
+  color: red;
+  font-size: 20px;
+}
+
+#activity-list .activity-info .love.hide {
+  display: none;
+}
+
+#activity-list .activity-info .loved {
+  color: red;
+  font-size: 20px;
+  display: none;
+}
+
+#activity-list .activity-info .loved.show {
+  display: block;
+}
+
+
+
